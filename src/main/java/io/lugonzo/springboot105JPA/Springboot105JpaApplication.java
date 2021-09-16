@@ -2,6 +2,7 @@ package io.lugonzo.springboot105JPA;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.scheduling.annotation.EnableScheduling;
 
 @SpringBootApplication
 public class Springboot105JpaApplication {
